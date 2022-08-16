@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         // Задание 1
+
             int i = 0;
             while ( i < 10 ) {
                 i ++;
@@ -13,6 +14,7 @@ public class Main {
         System.out.println();
         System.out.println();
         // Задание 2
+
         int friday = 1;
         for (; friday <= 31; friday += 7) {
             System.out.println("Сегодня пятница " + friday + "-e число. Необходимо подготовить отчет.");
@@ -20,6 +22,7 @@ public class Main {
 
         System.out.println();
         // Задание 3
+
         int cometYear = 0;
         int thisYear = 2022;
         int startYear = thisYear - 200;
@@ -30,7 +33,6 @@ public class Main {
             }
 
         }
-
 
 
 
